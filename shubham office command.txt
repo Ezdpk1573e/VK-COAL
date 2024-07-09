@@ -1,7 +1,0 @@
-echo "# SHUBHAM-DATA" >> README.md
-git init
-git add .
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Ezdpk1573e/SHUBHAM-DATA.git
-git push -u origin main
