@@ -1,7 +1,7 @@
 echo "# VK-COAL" >> README.md
 git init
 git add .
-git commit -m "08.08.24"
+git commit -m "17.07.24"
 git branch -M main
 git remote add origin https://github.com/Ezdpk1573e/VK-COAL.git
 git push -u origin main
